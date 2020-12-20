@@ -1,5 +1,5 @@
 # MAML_Pytorch_RL
-This repo contains code for the RL experiments of [Model Agnostic Meta-Learning](https://arxiv.org/abs/1703.03400). Make sure you install requirements and get your Mujoco License to run the experiments here. Additionally, there is an implementation of PPO as the meta-optimizer instead of TRPO as used by the authors.
+This repo contains code for the RL experiments of [Model Agnostic Meta-Learning](https://arxiv.org/abs/1703.03400). Make sure you install requirements and get your Mujoco License to run the experiments here. Additionally, there is an implementation of PPO as the meta-optimizer instead of TRPO as used by the authors. This work is done as part of the RL Course Project (Monsoon 2020).
 
 ## Usage
 #### Training for Navigation Task. Replace environment to switch experiments
